@@ -1,5 +1,7 @@
 # Stock_Prediction_Days
 
+Stock market prediction is the act of trying to determine the future value of a company stock or other financial instrument traded on an exchange.
+
 ![ Screenshot ](Web_Run_Days.jpeg)
 
 This Python script uses the Yahoo Financials API to retrieve historical stock price data for a given stock and then uses linear regression to predict stock prices for a specified number of days into the future.
