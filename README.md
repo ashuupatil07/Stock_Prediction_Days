@@ -24,7 +24,7 @@ Make sure you have Python installed. You can download it from [python.org](https
 1. Clone the repository:
 
    ```
-   git clone https://github.com/rjghongade/stock-prediction.git
+   git clone https://github.com/ashuupatil07/Stock_Prediction_Days.git
    ```
 Install the required libraries:
 ```
@@ -51,6 +51,5 @@ scikit-learn
 ### Stock Price Prediction Project
 This stock price prediction project is the result of collaborative efforts by a group of enthusiasts and learners. Our team, consisting of Rajendra Ghongade, Madhuri Phalke, and Ashwini Patil, embarked on this journey to explore the fascinating intersection of finance and machine learning. Together, we've created a Python script that leverages the power of linear regression to forecast stock prices. With data fetched from Yahoo Finance, our project offers a hands-on educational experience in stock market prediction, providing both a customizable and visually engaging tool. We're excited to share our work and encourage everyone to dive into the world of financial prediction. This project is a testament to our shared dedication and passion for learning and creating together.
 
-[Linkdin](https://www.linkedin.com/in/rajendra-ghongade-07b337259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
